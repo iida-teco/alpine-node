@@ -8,5 +8,5 @@ Node.js installed with NVM runs Alpine.
 ## build
 
 ```
-$ docker build -t alpine-node:latest .
+$ docker build -t alpine-node:v8.11.1 .
 ```
