@@ -1,6 +1,6 @@
 FROM iidateco/alpine-nvm
 
-ENV NODE_VERSION --lts
+ENV NODE_VERSION v8.15.0
 
 SHELL ["/bin/bash", "-c"]
 
